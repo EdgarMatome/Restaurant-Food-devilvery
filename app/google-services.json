@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473892783415",
+    "firebase_url": "https://the-bun.firebaseio.com",
+    "project_id": "the-bun",
+    "storage_bucket": "the-bun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473892783415:android:146ec27e962c84f380c6b2",
+        "android_client_info": {
+          "package_name": "com.nakedbun.masera.thebun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473892783415-33g0st4gvh5tp5mqpkel2sl0i3msm6l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nakedbun.masera.thebun",
+            "certificate_hash": "e03370498ecade8df5c5b465cbec1ca1dcb2430b"
+          }
+        },
+        {
+          "client_id": "473892783415-fol2r5n502t1dptnvgrej9a6k8t9oi1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqi2fqbiGkJ_VxRUuTlASGdlagBYR_N7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473892783415-fol2r5n502t1dptnvgrej9a6k8t9oi1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
